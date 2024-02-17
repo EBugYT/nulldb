@@ -1,1 +1,2 @@
-# nulldb
+# NullDB
+## A prototyping database

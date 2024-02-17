@@ -1,0 +1,22 @@
+{
+  "name": "nulldb",
+  "version": "1.0.0",
+  "description": "A database for prototyping",
+  "main": "ndb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EBugYT/nulldb.git"
+  },
+  "keywords": [
+    "db"
+  ],
+  "author": "NullDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EBugYT/nulldb/issues"
+  },
+  "homepage": "https://github.com/EBugYT/nulldb#readme"
+}
