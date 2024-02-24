@@ -20,3 +20,5 @@ class NullDB {
         fs.writeFileSync(this.path, JSON.stringify(this.db))
     }
 }
+
+module.exports = NullDB
